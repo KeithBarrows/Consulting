@@ -55,3 +55,10 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+LinkedIn/
+LinkedIn_Update/
+Basic_LinkedInDataExport_02-18-2026.zip
+Basic_LinkedInDataExport_02-19-2026.zip
+Stock Picks.md
+Toolkit for YNAB.json
