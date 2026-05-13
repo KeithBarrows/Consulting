@@ -29,13 +29,12 @@ Comfortable entering high-pressure environments, rapidly understanding complex s
 - Agile SDLC & Cross-Functional Collaboration
 
 **Technologies**
-
-**Backend** | C#, .NET Framework, .NET Core, ASP.NET, Web API, NodeJS
-**Cloud & Architecture** | Azure Service Fabric, Microservices, Distributed Systems, REST APIs
-**Data & Observability** | SQL Server, Entity Framework, SSIS, Serilog, Seq, OpenTelemetry
-**Frontend** | Angular, React, Blazor, JavaScript, JQuery
-**Security & Identity** | OAuth2, OpenID Connect (OIDC), IdentityServer
-**AI & Automation** | AI-Assisted SDLC Workflows, Agentic Workflows, Prompt Engineering, Workflow Automation
+- **Backend** | C#, .NET Framework, .NET Core, ASP.NET, Web API, NodeJS  
+- **Cloud & Architecture** | Azure Service Fabric, Microservices, Distributed Systems, REST APIs  
+- **Data & Observability** | SQL Server, Entity Framework, SSIS, Serilog, Seq, OpenTelemetry  
+- **Frontend** | Angular, React, Blazor, JavaScript, JQuery  
+- **Security & Identity** | OAuth2, OpenID Connect (OIDC), IdentityServer  
+- **AI & Automation** | AI-Assisted SDLC Workflows, Agentic Workflows, Prompt Engineering, Workflow Automation
 
 **Selected Achievements**
 
