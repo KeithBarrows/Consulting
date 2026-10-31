@@ -64,3 +64,5 @@ Stock Picks.md
 Toolkit for YNAB.json
 
 *.docx
+
+.secrets/
